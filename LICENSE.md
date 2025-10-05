@@ -1,9 +1,6 @@
-Copyright (c) 2025–2050 SeafarerDOC
+Copyright (c) 2025-2030 SeafarerDOC
 
 This software is licensed under the PolyForm Strict License 1.0.0.
-See https://polyformproject.org/licenses/strict/1.0.0
-
------ DO NOT EDIT BELOW THIS LINE -----
 
 # PolyForm Strict License 1.0.0
 
