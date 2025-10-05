@@ -1,5 +1,5 @@
 GNSS-OVER-LAN
-Copyright (c) 2025–2030 SeafarerDOC
+Copyright (c) 2025–2050 SeafarerDOC
 https://t.me/GnssOverLan
 
 This project is licensed under the PolyForm Strict License 1.0.0.
