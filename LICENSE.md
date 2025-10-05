@@ -1,6 +1,12 @@
-Copyright (c) 2025-2030 SeafarerDOC
+GNSS-OVER-LAN
+Copyright (c) 2025–2030 SeafarerDOC
+https://t.me/GnssOverLan
 
-This software is licensed under the PolyForm Strict License 1.0.0.
+This project is licensed under the PolyForm Strict License 1.0.0.
+Noncommercial use only. No distribution. No modifications or derivative works.
+
+Support: https://t.me/SeafarerDOC_Support
+
 
 # PolyForm Strict License 1.0.0
 
