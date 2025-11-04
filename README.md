@@ -11,12 +11,14 @@ Using this software on vessels or across a company fleet is **commercial use & d
 To obtain a commercial license or a custom agreement, contact:
 - Telegram: **@SeafarerDOC_Support**, **@GnssOverLan**
 
-### Personal Use Exception (Individual Only)
-The author grants **revocable, non-transferable, non-exclusive** permission to **named individuals** for personal, non-commercial use:
-- Not for employer benefit, revenue-generating activities, operations, watchkeeping, or fleet IT.
-- No redistribution, no modifications. No support. **“AS IS.”**
+### Personal Use Exception (Optional, per-request)
+The author **may grant** **revocable, non-transferable, non-exclusive** permission to **named individuals** for personal, non-commercial use **on their own devices only**.  
+- Not for employer benefit, revenue-generating activities, operations, watchkeeping, or fleet IT.  
+- No redistribution, no modifications. No support. **“AS IS.”**  
+> This optional exception does **not** limit default non-commercial rights under PolyForm Strict 1.0.0.
 
 ### Notice
 By using this software you agree to the terms of **PolyForm Strict 1.0.0**.  
 © 2025–2050 **@SeafarerDOC_Support**. All rights reserved.  
-**No warranty.** This software is provided “AS IS.”
+**No warranty.** This software is provided **“AS IS.”**
+
