@@ -2,11 +2,15 @@ GNSS-OVER-LAN
 Copyright (c) 2025–2050 SeafarerDOC
 https://t.me/GnssOverLan
 
-This project is licensed under the PolyForm Strict License 1.0.0.
-Noncommercial use only. No distribution. No modifications or derivative works.
+This project is licensed under the **PolyForm Strict License 1.0.0**.  
+Noncommercial use only. **No distribution. No modifications** or derivative works.
+
+**Commercial / Fleet Use:** any use **by or for a company**, including operational tasks or fleet rollout, **requires a commercial license** from the author.  
+**Personal ship-PC use (optional, Viewer Mode):** the author may grant a **revocable, non-transferable** permission to a **named individual** for **personal, noncommercial** use on **one ship-owned PC**, as described in `README.md` (**no integrations**, **no operational use**).
 
 Support: https://t.me/SeafarerDOC_Support
 
+---
 
 # PolyForm Strict License 1.0.0
 
