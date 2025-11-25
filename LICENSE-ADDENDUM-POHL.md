@@ -1,6 +1,6 @@
 > This document is an addendum to the PolyForm Strict License 1.0.0 and clarifies POHL / personal-use terms for GNSS-OVER-LAN.
 
-## License
+## License 
 
 - **License:** PolyForm Strict 1.0.0  
 - **Allowed:** personal / educational / research use **without distribution** and **without modifications**.  
