@@ -20,7 +20,7 @@ The author **may grant** **revocable, non-transferable, non-exclusive** permissi
 
 1) **Personal only**: not used for employer benefit, operations, watchkeeping, planning, reporting, or any work tasks.  
 2) **Non-operational**: not used for navigation, safety, or decision-making on board. Weather viewing only.  
-3) **No integrations**: no connection to ship/company sensors or systems (AIS, GNSS, ECDIS, VDR, servers, LAN feeds).  
+3) **No integrations**: no connection to ship/company sensors or systems (AIS, GNSS, ECDIS, VDR, servers).  
 4) **No redistribution / no mods**: do not share, repackage, or modify.  
 5) **Scope by person & device**: permission is tied to the **named individual** and the **specific workstation(s)** listed by the author.  
 6) **Revocable**: the author may revoke this permission at any time with written notice. Software is provided **“AS IS.”**
