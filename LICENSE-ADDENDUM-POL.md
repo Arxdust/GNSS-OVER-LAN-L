@@ -1,4 +1,4 @@
-> This document is an addendum to the PolyForm Strict License 1.0.0 and clarifies POHL / personal-use terms for GNSS-OVER-LAN.
+> This document is an addendum to the PolyForm Strict License 1.0.0 and clarifies POL / personal-use terms for GNSS-OVER-LAN.
 
 ## License 
 
@@ -27,7 +27,7 @@ The author **may grant** **revocable, non-transferable, non-exclusive** permissi
 
 #### GNSS-OVER-LAN Server / Bridge Limitation
 
-For all free / personal / POHL-style permissions, the GNSS-OVER-LAN **server-side component** (“Bridge”, background service that listens on TCP/UDP ports and distributes NMEA/AIS/route data) may be installed and run on **only one physical PC per license** (“Server PC”).
+For all free / personal / POL-style permissions, the GNSS-OVER-LAN **server-side component** (“Bridge”, background service that listens on TCP/UDP ports and distributes NMEA/AIS/route data) may be installed and run on **only one physical PC per license** (“Server PC”).
 
 - Running the server/bridge on more than one PC at the same time (for example, multiple ship workstations, fleet laptops, or duplicated setups) is considered **multi-device / fleet use** and **requires a separate commercial or fleet license** from the author.  
 - Client-side tools, browser userscripts, and viewers (e.g. Windy.com integrations, local dashboards) may connect to this single Server PC, but **must not act as additional servers or re-stream the data as a new GNSS-OVER-LAN instance.**  
